@@ -122,4 +122,6 @@ for (int i = 0; i < 8; i++) {
 }
 System.out.println(myStack.isEmpty());//true
 myStack.pop();//报错：java.lang.IllegalArgumentException: Stack is empty.
-```
+
+
+11111111111111111111```
